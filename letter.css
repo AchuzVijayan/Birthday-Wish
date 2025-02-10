@@ -1,5 +1,5 @@
 body {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Courier New', Courier, monospace;
   background: linear-gradient(135deg, #490353, #8b85c0);
   color: #88dc3f;
   display: flex;
