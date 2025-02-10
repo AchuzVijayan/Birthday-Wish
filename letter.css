@@ -1,5 +1,5 @@
 body {
-  font-family: cursive;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   background: linear-gradient(135deg, #490353, #8b85c0);
   color: #88dc3f;
   display: flex;
@@ -9,13 +9,14 @@ body {
   /* margin: 0; */
   margin: 10px;
   /* overflow: hidden; */
+
 }
 
 .heart-25 {
   position: fixed;
   font-size: 5rem; /* Large size for the number */
   font-weight: bold;
-  color: rgba(255, 255, 255, 0.1); /* Semi-transparent white */
+  color: rgba(255, 255, 255, 0.2); /* Semi-transparent white */
   animation: float 10s infinite ease-in-out; /* Floating animation */
 }
 
@@ -53,9 +54,10 @@ body {
     margin-top: 2rem;
   }
   
-  #surprise h2 {
+  .container h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
+    color: #97c2b6;
   }
   
   #surprise a {

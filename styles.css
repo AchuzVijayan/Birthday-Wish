@@ -1,5 +1,5 @@
 body {
-    font-family: cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background: linear-gradient(135deg, #490353, #8b85c0);
     color: #88dc3f;
     display: flex;
@@ -16,6 +16,7 @@ body {
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+    
   }
   
   h1 {
