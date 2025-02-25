@@ -1,5 +1,5 @@
-// Set the date and time for the countdown (e.g., her birthday at midnight)
-//const countdownDate = new Date("2025-02-11T00:00:00").getTime(); // Replace with her birthday date
+// Set the date and time for the countdown
+//const countdownDate = new Date("2025-02-11T00:00:00").getTime(); 
 const countdownDate = new Date("2025-02-10T02:30:00").getTime();
 
 const daysElement = document.getElementById("days");
